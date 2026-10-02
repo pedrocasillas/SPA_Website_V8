@@ -1,22 +1,34 @@
-SPA Website V5 — Lean version
+SPA Website V8 — approved homepage review
 
-This version combines the calmer homepage of the original SPA preview with the clearer offers, scope and trust information developed for V4.
+What changed from V7
+- Replaced the hero headline and removed the AI-generated working photograph from the page.
+- Rewrote the three “Where are you now?” cards using the approved wording.
+- Replaced the fictional worked example with an anonymised real slide and an illustrative clearer version.
+- Clarified the Investor Readiness Review starting point and deliverables.
+- Updated the experience figures and added the approved Andy Kaye recommendation extract.
+- Clarified the relationship between SPA and AdvisoryLondon.
+- Updated the final call to action and footer.
+- Added a first-draft privacy page linked from the homepage footer.
 
-The homepage also includes a clearly separated capital-advisory partner banner linking to AdvisoryLondon Networks, with the regulatory status stated in full.
+Important image note
+The V8 homepage does not display the AI-generated working-session image. The old image files remain in the package only because the other pages have not yet been reviewed.
 
-Visible navigation:
+The homepage worked example uses assets/anonymised-pitch-slide.png. It is an anonymised edit of a real pitch slide. The adjacent improved version is an illustrative reconstruction and is not presented as a client result.
+
+Visible navigation
 - Home
 - How I Help
-- Check Your Pitch (resources.html)
+- Check Your Pitch
 - For Investors
 - About Pedro
 - Contact
 
-The older service and resource URLs are redirected to the relevant section of the new, consolidated pages via Netlify's _redirects file.
-
-Before launch:
-1. Review and approve all copy, claims and numerical credentials.
-2. Replace noindex,nofollow on each page and the blocking robots.txt when moving from preview to the live domain.
-3. Confirm the canonical URLs match the final live paths.
-4. Submit a test contact form on Netlify and confirm the thank-you page and form notification.
-5. Add testimonials or named client outcomes later only where permission and evidence are available.
+Before launch
+1. Ask AdvisoryLondon to approve its name, description, link and regulatory wording.
+2. Review and approve all experience statements and numerical credentials.
+3. Confirm permission to publish the Andy Kaye recommendation extract and attribution.
+4. Review the first-draft privacy notice against the actual email, storage and retention arrangements.
+5. Replace noindex,nofollow and the blocking robots.txt when moving from preview to the live domain.
+6. Confirm the canonical URLs match the final live paths.
+7. Submit a test Netlify form and confirm the thank-you page and email notification.
+8. Review the remaining pages, including Contact, before moving V8 to the live domain.
