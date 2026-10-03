@@ -13,7 +13,7 @@ What changed from V7
 Important image note
 The V8 homepage does not display the AI-generated working-session image. The old image files remain in the package only because the other pages have not yet been reviewed.
 
-The homepage worked example uses assets/anonymised-pitch-slide.png. It is an anonymised edit of a real pitch slide. The adjacent improved version keeps the same dimensions, frame, layout, imagery and visual identity; only the words are changed. It is an illustrative edit and is not presented as a client result.
+The homepage worked example uses assets/anonymised-pitch-slide.png for the original and assets/improved-pitch-slide.png for the revised version supplied by Pedro. The revised image is used exactly as supplied: it keeps the same dimensions, frame, layout, imagery and visual identity; only the words are changed. It is an illustrative edit and is not presented as a client result.
 
 Visible navigation
 - Home
