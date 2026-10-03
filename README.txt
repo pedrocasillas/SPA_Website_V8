@@ -3,7 +3,7 @@ SPA Website V8 — approved homepage review
 What changed from V7
 - Replaced the hero headline and removed the AI-generated working photograph from the page.
 - Rewrote the three “Where are you now?” cards using the approved wording.
-- Replaced the fictional worked example with an anonymised real slide and an illustrative clearer version.
+- Replaced the fictional worked example with an anonymised real slide and a minimal copy edit that preserves the original slide design.
 - Clarified the Investor Readiness Review starting point and deliverables.
 - Updated the experience figures and added the approved Andy Kaye recommendation extract.
 - Clarified the relationship between SPA and AdvisoryLondon.
@@ -13,7 +13,7 @@ What changed from V7
 Important image note
 The V8 homepage does not display the AI-generated working-session image. The old image files remain in the package only because the other pages have not yet been reviewed.
 
-The homepage worked example uses assets/anonymised-pitch-slide.png. It is an anonymised edit of a real pitch slide. The adjacent improved version is an illustrative reconstruction and is not presented as a client result.
+The homepage worked example uses assets/anonymised-pitch-slide.png. It is an anonymised edit of a real pitch slide. The adjacent improved version keeps the same dimensions, frame, layout, imagery and visual identity; only the words are changed. It is an illustrative edit and is not presented as a client result.
 
 Visible navigation
 - Home
